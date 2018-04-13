@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CE212-5-SP-CO Web Application Programming:Web12 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CE212_5_SP_CO_Web_Application_Programming_Web12_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CE212-5-SP-CO Web Application Programming/web/Web12" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CE212-5-SP-CO Web Application Programming" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

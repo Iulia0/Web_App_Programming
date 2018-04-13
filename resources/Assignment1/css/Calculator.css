@@ -1,0 +1,9 @@
+body {font-size: large}
+.indent { margin-left:1em }
+button.no { width:2.2em; background: steelblue; font-weight:bold }
+#text1{text-align:center; color: #880011 ;width:70px; background: #EEFFFF; border: solid;
+    border-color: navy; padding: 1em; border-width: 1px;
+    font-family:"Courier New"; font-size:80%  }
+table{background: darkblue;}
+button.symbol{  width:2.2em; background: chartreuse; font-weight:bold  }
+button.r{  width:2.2em; background: crimson; font-weight:bold  }

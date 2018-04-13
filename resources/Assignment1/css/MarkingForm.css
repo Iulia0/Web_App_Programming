@@ -1,0 +1,9 @@
+body {margin: 4em; width: 1300px}
+h2 {text-align: center; color: royalblue; background: #EFEFEF}
+pre {margin: 2em; background: #EFEFEF; border: solid; border-color: navy; padding: 1em; border-width: 1px}
+td {text-align: center; color: navy; font-size: 15px; }
+th { color: firebrick; padding: 1.5em; font-size: 25px;}
+td.mark{text-align: center;}
+div.clear {float: right; }
+div.up{text-align: center;  color: royalblue; font-size: 15px; }
+p{text-align: center;}
